@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/bot:path*", "destination": "/api/proxy/bot:path*" }
-  ]
-}
